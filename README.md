@@ -1,45 +1,21 @@
-# Razor Page CRUD in ASP.NET Core with jQuery AJAX – Ultimate Guide
-Razor Page CRUD in ASP.NET Core with Onion Architecture, Razor Partial Views, jQuery Datatable, jQuery AJAX , Repository Pattern, Unit Of Work, Bootstrap Modal and much more!
+# Razor Crud ASP.Net Using Ajax & JQuery
+- Project Details:
 
-![](https://media.giphy.com/media/z6h4wAuQJWmbal5KVQ/source.gif)
+- Index
 
-In this tutorial, we will learn a clean and simple way to implement Razor Page CRUD in ASP.NET Core with jQuery AJAX and Bootstrap Modal. The ultimate aim is to build an Entity Management Set of Operations (CRUD) that doesn’t reload pages. We will be achieving this with the help of ASP.NET Core Razor Page, Razor Partial View, JQuery AJAX calls so that you would never have to see your page reload again but everything would just work flawlessly.
+![Screenshot (139)](https://github.com/TreanChhanon/RazorCRUD_ASP.Net/assets/123797735/37a97fff-2370-4311-919c-d39b36c4bc5b)
 
-Let's Build an ASP. NET Core Razor Page Web Application with CRUD Operations. This is not any simple CRUD Tutorial but coupled with quite a lot of other features too. Here is what you will be learning.
+- Add New
 
-- Setting up a Solution following Clean / Onion Architecture
+![Screenshot (140)](https://github.com/TreanChhanon/RazorCRUD_ASP.Net/assets/123797735/7e09ee33-2b94-4cc5-808a-ac0463630f8d)
 
-- Entity Framework Core
+- Update 
 
-- Repository Pattern with Unit Of Work
+![Screenshot (141)](https://github.com/TreanChhanon/RazorCRUD_ASP.Net/assets/123797735/7aba2432-aeb9-4399-9372-868243857a12)
 
-- Razor Pages
+# Contact Me:
 
-- Bootstrap Modal
+- Tell - [+855 97 8982 802](0978982802)
+- Facebook - [Nun](https://web.facebook.com/profile.php?id=100034372398630)
+- Instagram - [moxie_nun]()
 
-- JQuery AJAX Calls to render the Razor Partial Views with no Page Reloads whatsoever.
-
-- jQuery Datatables
-
-- Client Side Validation with jQuery Unobstructive Library
-
-- and so much more.
-
-Basically what we will build is a CRUD Application with Rich User Experience and Blazing Fast Operations. Thanks to jQuery!
-
-Read the entire article here
-
-https://www.codewithmukesh.com/blog/razor-page-crud-in-aspnet-core/
-
-## Support
-Has this Project helped you learn something New? or Helped you at work? Do Consider Supporting.
-
-<a href="https://www.buymeacoffee.com/codewithmukesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200"  ></a>
-
-## About the Author
-### Mukesh Murugan
-- Blogs at [codewithmukesh.com](https://www.codewithmukesh.com)
-- Facebook - [codewithmukesh](https://www.facebook.com/codewithmukesh)
-- Twitter - [Mukesh Murugan](https://www.twitter.com/iammukeshm)
-- Twitter - [codewithmukesh](https://www.twitter.com/codewithmukesh)
-- Linkedin - [Mukesh Murugan](https://www.linkedin.com/in/iammukeshm/)
